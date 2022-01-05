@@ -9,3 +9,7 @@
 只需要复制当前 GitHub 地址粘贴到输入框中就可以代理加速下载！
 
 地址：http://toolwa.com/github
+
+### GitHub代理加速器
+
+地址：https://github.com/dotnetcore/FastGithub
